@@ -9,7 +9,7 @@
         {"name": "Steffan Poulsen - Majestic#6238"},
         {"name": "illandhil"}
     ],
-    "minimumCoreVersion": "11",
+    "minimumCoreVersion": "10",
     "compatibleCoreVersion": "11",
     "styles": ["/styles/dicetooltip.css"],
     "scripts": ["./scripts/dicetooltip.js"],
@@ -33,7 +33,7 @@
         "requires": []
     },
     "compatibility": {
-        "minimum": "11",
+        "minimum": "10",
         "verified": "11",
         "maximum":"11"
     },
