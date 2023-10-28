@@ -13,7 +13,7 @@
     "compatibleCoreVersion": "11",
     "styles": ["/styles/dicetooltip.css"],
     "scripts": ["./scripts/dicetooltip.js"],
-    "url": "https://github.com/trev33b/dice-tooltip2",
+    "url": "https://github.com/illandhil/dice-tooltip2",
     "manifest": "https://github.com/illandhil/dice-tooltip2/raw/master/src/module.json",
     "download": "https://github.com/illandhil/dice-tooltip2/raw/master/dist/dice-tooltip2.4.2.zip",
     "readme": "https://github.com/illandhil/dice-tooltip2/raw/master/src/README.md",
