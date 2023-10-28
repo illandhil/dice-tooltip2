@@ -6,7 +6,7 @@
     "version": "2.5.0",
     "authors": [
         {"name": "Trevor Bechtel"},
-        {"name": "Steffan Poulsen - Majestic#6238"}
+        {"name": "Steffan Poulsen - Majestic#6238"},
         {"name": "Arnold S Triplett"}
     ],
     "minimumCoreVersion": "11",
