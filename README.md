@@ -1,7 +1,7 @@
 A [FoundryVTT](http://foundryvtt.com/) module that shows dice and bonus information when hovering over
 an item/spell/ability/skills/etc. in an actor sheet.
 
-<b>Version 2.50 is compatible with FoundryVTT 11 and is NOT compatible with FoundryVTT 10.<br>Use 2.4.1 if you still want to use this module with FoundryVTT 10.</b>
+<b>Version 2.50 "should" be compatible with FoundryVTT 11 and 10.</b>
 <b>Version 2.40 is compatible with FoundryVTT 10 and is NOT compatible with FoundryVTT 9.<br>Use 2.3.1 if you still want to use this module with FoundryVTT 9.</b>
 
 <b>Only works with the D&D5E system 0.95 or later</b>
