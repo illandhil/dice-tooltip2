@@ -53,7 +53,7 @@ Pull requests are welcome for other languages.
 
 ## Alternative
 
-1. Download [this zip file](https://github.com/trev33b/dice-tooltip2/raw/master/dist/dice-tooltip2.zip)
+1. Download [this zip file](https://github.com/illandhil/dice-tooltip2/raw/master/dist/dice-tooltip2.zip)
 2. Extract it into the `<FoundryVTT directory>/data/modules`-folder
 
 # Compatibility
