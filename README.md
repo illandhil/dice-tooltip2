@@ -1,6 +1,8 @@
 A [FoundryVTT](http://foundryvtt.com/) module that shows dice and bonus information when hovering over
 an item/spell/ability/skills/etc. in an actor sheet.
 
+<br>Manifest URL: https://github.com/illandhil/dice-tooltip2/raw/master/src/module.json
+
 <b>Version 2.50 "should" be compatible with FoundryVTT 11 and 10.</b></br>
 <b>Version 2.40 is compatible with FoundryVTT 10 and is NOT compatible with FoundryVTT 9.<br>Use 2.3.1 if you still want to use this module with FoundryVTT 9.</b>
 
