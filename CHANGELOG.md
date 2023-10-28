@@ -1,3 +1,6 @@
+# 2.5.0
+* Updating Manifest to begin testing for V11 compatibility.
+
 # 2.4.2
 * Fix zip file reference that was causing wrong version of the module to be downloaded.  Special thanks to @thatlonelybugbear for helping to find the issue.
 
